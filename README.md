@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheltonbwork
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning html, css, javascript and python
+- 🌱 I’m currently learning html, css, javascript, react, and more
 - 💞️ I’m looking to collaborate on websites and web applications
 
 <!---
